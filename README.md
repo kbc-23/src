@@ -6,8 +6,8 @@
     ├── MoNuSeg_1000x1000_for_candidate   # Intermediate results 
     ├── output                            # Generated output
     └── src                               # source code repo to be shared                  
-        ├── post_process.py               # readme
-        └── readme                        # Unit tests
+        ├── post_process.py               # main script
+        └── readme                        # readme
 
 
 
