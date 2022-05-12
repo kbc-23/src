@@ -5,7 +5,9 @@
     ├── MoNuSeg 2018 Training Data        # Training data 
     ├── MoNuSeg_1000x1000_for_candidate   # Intermediate results 
     ├── output                            # Generated output
-    └── src                               # source code
+    └── src                               # source code folder to be shared                  
+        ├── post_process.py               # readme
+        └── readme                        # Unit tests
 
 
 
